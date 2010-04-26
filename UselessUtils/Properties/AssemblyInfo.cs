@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UselessUtils")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Some boring utility classes")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Medidata Solutions")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UselessUtils")]
-[assembly: AssemblyCopyright("Copyright © Medidata Solutions 2010")]
+[assembly: AssemblyCopyright("Copyright © Harry Wilkinson 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
