@@ -1,0 +1,4 @@
+
+*.suo
+/UselessUtils/obj
+/UselessUtils/bin
