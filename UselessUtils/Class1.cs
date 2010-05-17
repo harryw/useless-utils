@@ -7,5 +7,6 @@ namespace UselessUtils
 {
 	public class Class1
 	{
+		// a useless comment
 	}
 }
